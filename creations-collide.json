@@ -1,0 +1,34 @@
+{
+  "name": "Creations Collide",
+  "symbol": "COLLIDE",
+  "description": "Creations Collide by Kid Creator & Lo Guel - Official Release from My Block Studio",
+  "seller_fee_basis_points": 500,
+  "uri": "https://raw.githubusercontent.com/NautHuman77/MYBLOCKSTUDIO/main/creations-collide.json",
+  "image": "https://raw.githubusercontent.com/NautHuman77/MYBLOCKSTUDIO/main/Kid-Creator.png",
+  "animation_url": "https://raw.githubusercontent.com/NautHuman77/MYBLOCKSTUDIO/main/Creations-Colide.mp3",
+  "external_url": "",
+  "properties": {
+    "category": "audio",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/NautHuman77/MYBLOCKSTUDIO/main/Creations-Colide.mp3",
+        "type": "audio/mp3"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6fKBW9ivUQQE68miHezzc7hRB4LTTT8ggGRXkHmEHdh",
+        "share": 50
+      }
+    ]
+  },
+  "attributes": [
+    { "trait_type": "Artist", "value": "Kid Creator & Lo Guel" },
+    { "trait_type": "Label", "value": "My Block Studio" },
+    { "trait_type": "Track", "value": "Creations Collide" }
+  ],
+  "collection": {
+    "name": "My Block Studio",
+    "family": "My Block Studio"
+  }
+}
